@@ -6,7 +6,10 @@ markdown: kramdown
 highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-#base_url: http://wooseok7.github.io/theme4/ (or http://example.com)
+
+baseurl: "/theme4" # the subpath of your site, e.g. /blog/
+#base_url: /theme4/ 
+
 sass:
   sass_dir: _sass
   style: :compressed
