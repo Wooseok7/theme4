@@ -1,12 +1,12 @@
 ##The website title
-name: Blog Name
+name: Namoosori
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
 highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-#base_url: http://gituser.github.io (or http://example.com)
+#base_url: http://wooseok7.github.io/theme4/ (or http://example.com)
 sass:
   sass_dir: _sass
   style: :compressed
