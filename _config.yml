@@ -7,8 +7,9 @@ highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 
-baseurl: "/theme4" # the subpath of your site, e.g. /blog/
-#base_url: /theme4/ 
+url: 
+baseurl: /theme4 
+base_url: http://wooseok7.github.io/theme4/
 
 sass:
   sass_dir: _sass
