@@ -7,7 +7,7 @@ highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 
-url: http://wooseok7.github.io/
+url: http://wooseok7.github.io/theme4/
 baseurl: "/theme4" 
 base_url: http://wooseok7.github.io/theme4/
 
